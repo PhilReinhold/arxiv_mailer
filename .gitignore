@@ -1,0 +1,5 @@
+*.pyc
+.ropeproject
+arxiv_search.log
+arxiv_previously_alerted.txt
+arxiv_email.html
